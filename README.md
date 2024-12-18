@@ -61,3 +61,6 @@ ECME_output <- ECME(EM_type = "ADECME", # Must be one of "ADECME", "RPECME" and 
                     X = X,
                     ti = ti)
 ```
+
+## Reference:
+Liu Q, Srivastava S and Bandyopadhyay D. (2024+). Asynchronous distributed ECME algorithm for matrix-variate non-Gaussian responses, (Under Review), *Statistics and Computing*
